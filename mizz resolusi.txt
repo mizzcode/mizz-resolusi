@@ -1,7 +1,8 @@
 Mizz Resolusi
-~ Konsisten dalam update di github 2x seminggu
+~ Konsisten dalam update di github minimal 2x seminggu
 ~ Membuat aplikasi website panel smm & ppob dengan laravel
 ~ Menguatkan fundamental dan konsep dalam programming
 ~ Membuat forum diskusi
 ~ Konsisten ngoding, anywhere and anytime. for fun & hobby ~
 Good Luck!
+~ To Do List { Tidur jam 10 malam - Bangun jam 4 pagi - Sholat - Olahraga - Sarapan - Ngoding - Repeat }
